@@ -12,7 +12,9 @@ wps代码块插件
 
 富哥儿要是不差钱就打赏一下吧，这样评论区有建议的话，我也能有动力更新，么么哒！
 
-
+<div align="center">
+  <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+</div>
 
 如果遇到什么需要密码：
 woaikaiyuan
