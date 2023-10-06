@@ -13,7 +13,7 @@ wps代码块插件
 富哥儿要是不差钱就打赏一下吧，这样评论区有建议的话，我也能有动力更新，么么哒！
 
 <div align="center">
-  <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+  <img src="https://github.com/wgy981930674/wps-syntaxhighlighter/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231006191044.jpg" width="210px">
 </div>
 
 如果遇到什么需要密码：
